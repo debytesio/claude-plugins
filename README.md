@@ -28,6 +28,7 @@ Most plugins are powered by [DEB Cloud](https://debytes.io/products/cloud) — a
 
 ## Links
 
+- [Documentation](https://docs.debytes.io)
 - [DeBytes](https://debytes.io)
 - [DEB Cloud](https://debytes.io/products/cloud)
 - [GitHub](https://github.com/debytesio)
