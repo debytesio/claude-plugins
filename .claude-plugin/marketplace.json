@@ -1,0 +1,33 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "debytes",
+  "owner": {
+    "name": "DeBytes",
+    "email": "support@debytes.io"
+  },
+  "metadata": {
+    "description": "AI-powered plugins by DeBytes — cloud tools for job search, trading, e-commerce, and more.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "job-hunter",
+      "description": "AI-powered job search across UK and France platforms with visa sponsorship checking, salary analysis, and ranked Excel exports.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Franck Fotso",
+        "email": "support@debytes.io",
+        "url": "https://github.com/franckfotso"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/debytesio/claude-plugin-jobhunter.git"
+      },
+      "homepage": "https://debytes.io/products/cloud",
+      "repository": "https://github.com/debytesio/claude-plugin-jobhunter",
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "keywords": ["jobs", "recruitment", "career", "salary", "visa", "ukvi", "deb-cloud"]
+    }
+  ]
+}
